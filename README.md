@@ -1,3 +1,4 @@
 # Guessing game
-Mon Feb 24 01:27:35 MST 2020
-23 guessinggame.sh
+Date of running make: Mon Feb 24 02:03:29 MST 2020
+Number of lines pf code:
+23
